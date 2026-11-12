@@ -7,6 +7,10 @@ ENV/
 .env
 *.env
 !.env.example
+API_CREDENTIALS.md
+*CREDENTIALS*
+*SECRET*
+*TOKEN*
 
 # Python Cache & Bytecode
 __pycache__/
