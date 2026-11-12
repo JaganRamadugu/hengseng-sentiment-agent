@@ -1,0 +1,11 @@
+ticker,company,model_used,latest_date,latest_close,predicted_return_pct,predicted_next_close,predicted_direction,latest_sentiment_score,test_mae,test_rmse,zero_benchmark_mae,directional_accuracy_pct,beats_zero_benchmark
+0700.HK,Tencent,Market_Only,2026-11-11,409.6,0.652,412.271,BULLISH,0.4841,0.018223,0.024028,0.017004,48.42,False
+0700.HK,Tencent,Market_Plus_Combined,2026-11-11,409.6,0.46,411.483,BULLISH,0.4841,0.018448,0.024333,0.017004,43.16,False
+9988.HK,Alibaba,Market_Only,2026-11-11,100.6,-0.034,100.566,BEARISH,0.536,0.021351,0.029372,0.020751,49.47,False
+9988.HK,Alibaba,Market_Plus_Combined,2026-11-11,100.6,-0.118,100.482,BEARISH,0.536,0.021253,0.029178,0.020751,51.58,False
+0005.HK,HSBC,Market_Only,2026-11-11,141.6,1.198,143.296,BULLISH,0.3256,0.013105,0.018027,0.011601,47.37,False
+0005.HK,HSBC,Market_Plus_Combined,2026-11-11,141.6,1.039,143.071,BULLISH,0.3256,0.013035,0.018045,0.011601,48.42,False
+3690.HK,Meituan,Market_Only,2026-11-11,72.85,0.697,73.358,BULLISH,-0.0173,0.021415,0.028161,0.019981,49.47,False
+3690.HK,Meituan,Market_Plus_Combined,2026-11-11,72.85,0.597,73.285,BULLISH,-0.0173,0.021305,0.027906,0.019981,47.37,False
+1810.HK,Xiaomi,Market_Only,2026-11-11,30.1,0.138,30.141,BULLISH,0.6116,0.025817,0.033864,0.02511,47.37,False
+1810.HK,Xiaomi,Market_Plus_Combined,2026-11-11,30.1,0.036,30.111,BULLISH,0.6116,0.025783,0.033904,0.02511,47.37,False

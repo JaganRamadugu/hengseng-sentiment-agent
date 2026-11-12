@@ -1,0 +1,6 @@
+ticker,company,total_articles,average_sentiment,median_sentiment,average_confidence,positive_articles,negative_articles,neutral_articles,direction
+0005.HK,HSBC,10,0.93818,0.9448,0.93818,10,0,0,BULLISH
+1810.HK,Xiaomi,10,0.6757,0.88175,0.7063200000000001,8,1,1,BULLISH
+0700.HK,Tencent,10,0.56391,0.92675,0.76127,7,2,1,BULLISH
+9988.HK,Alibaba,8,0.4459125,0.42935,0.4459125,5,0,3,BULLISH
+3690.HK,Meituan,9,-0.14314444444444444,0.0,0.33074444444444445,1,3,5,BEARISH

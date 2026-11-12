@@ -1,0 +1,28 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Environment Variables & Secrets
+.env
+*.env
+!.env.example
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Logs & Temporary Files
+*.log
+.DS_Store
+Thumbs.db
+
+# Machine Learning Artifacts
+models/*.joblib
+
+# Scratch & Intermediate Analysis
+scratch/
+analysis/__pycache__/

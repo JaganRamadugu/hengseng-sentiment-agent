@@ -1,0 +1,673 @@
+source,ticker,company_name,timestamp,sentiment_score,sentiment_direction,current_price_reference,trading_opinion,support_level,resistance_level,price_target,trading_position,text_snippet,url
+News,0700.HK,Tencent,2026-11-12T05:14:36.000Z,0.8934,BULLISH,95.6,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Alibaba, Tencent shares fall on report U.S. weighs curbs on remote AI chip access By Investing.com. # Alibaba, Tencent shares fall on report U.S. weighs curbs on remote AI chip access
+
+Author Ayushman...",https://www.investing.com/news/stock-market-news/alibaba-tencent-shares-fall-on-report-us-weighs-curbs-on-remote-ai-chip-access-5020375
+News,0700.HK,Tencent,2026-11-12T06:46:14.000Z,-0.1179,BEARISH,404.8,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Why is Tencent stock falling today? By Investing.com. Published Nov 12, 2026, 01:46 AM
+
+Why is Tencent stock falling today?
+
+© Reuters.
+
+Investing.com -- Tencent Holdings Ltd stock slipped 1.2% to HK$...",https://www.investing.com/news/stock-market-news/why-is-tencent-stock-falling-today-93CH-5020459
+News,0700.HK,Tencent,2026-11-12T02:23:11.000Z,-0.8885,BEARISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Hong Kong Stocks Fall for Second Day. The Hang Seng Index fell 1.2%, or 287 points, to around 22,031 on Thursday, extending losses for a second consecutive session as weakness across technology, retai...",https://tradingeconomics.com/hong-kong/stock-market/news/600565
+News,0700.HK,Tencent,2026-11-10T15:08:57.000Z,0.9954,BULLISH,418,BUY,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Tencent Shares Slid Even Though Profit Rose. Tencent Shares Slid Even Though Profit Rose
+# Tencent Shares Slid Even Though Profit Rose
+Sasha Jovanovic Tue, 10 November 2026 at 10:08 am GMT-5 4 min rea...",https://sg.finance.yahoo.com/news/tencent-shares-slid-even-though-150857001.html
+News,0700.HK,Tencent,2026-11-11T00:00:00.000Z,0.9682,BULLISH,407.8,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"GMT EIGHT - HK Stock Market Move  | TENCENT(00700) Falls Nearly 3% Intraday; Tencent to Report Earnings Next Week, Profit May Be Dragged by Accelerated AI Investment. # HK Stock Market Move | TENCENT(...",https://gmteight.com/content/detail/450739
+News,0700.HK,Tencent,2026-11-12T06:21:24.000Z,0.9803,BULLISH,Not mentioned,SELL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Semiconductors lift China stocks; Hong Kong falls as Alibaba weighs - Markets - Business Recorder. # Semiconductors lift China stocks; Hong Kong falls as Alibaba weighs
+
+- Hong Kong’s benchmark Hang S...",https://www.brecorder.com/news/40448556/semiconductors-lift-china-stocks-hong-kong-falls-as-alibaba-weighs
+News,0700.HK,Tencent,2026-11-12T00:00:00.000Z,0.9732,BULLISH,Not mentioned,SELL,Not mentioned,Not mentioned,Not mentioned,沽空,"腾讯3日累涨8%升穿下降轨带领港股直闯31000关爽报  11月12日最新消息_YesDaily.com!. 腾讯3日累涨8%升穿下降轨带领港股直闯31000关爽报 11月12日最新消息_YesDaily.com!
+
+# 腾讯3日累涨8%升穿下降轨带领港股直闯31000关 
+
+ 发布时间：2026-11-12 爽报 YesDaily.COM 208 
+
+ 新浪港股讯 据香港经济日报报导，投资界重拾...",https://www.yesdaily.com/xinwen_50865.html
+News,0700.HK,Tencent,2026-11-05T10:56:00.000Z,0.969,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Tencent Showcases Global Payment Connectivity and AI-Powered Finance at Hong Kong FinTech Week 2026. Tencent Showcases Global Payment Connectivity and AI-Powered Finance at Hong Kong FinTech Week 2026...,https://finance.yahoo.com/technology/ai/articles/tencent-showcases-global-payment-connectivity-105600388.html
+News,0700.HK,Tencent,2026-11-09T08:26:31.000Z,0.8602,BULLISH,47.74,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Tencent stock enters earnings week as AI rollout raises stakes. Published on 11/09/2026 at 09:26 | Editorial responsibility: Rafael Müller,
+
+...
+
+Tencent stock enters the final stretch before November...",https://www.ad-hoc-news.de/boerse/news/corporate-news/tencent-stock-enters-earnings-week-as-ai-rollout-raises-stakes/70479683
+News,0700.HK,Tencent,2026-11-03T08:30:00.000Z,0.9928,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Tencent Cloud Selected for HKMA's Agentic Finance Expert Group, Showcases WorkBuddy's New Financial Capabilities at Hong Kong FinTech Week. # Tencent Cloud Selected for HKMA's Agentic Finance Expert G...",https://finance.yahoo.com/technology/ai/articles/tencent-cloud-selected-hkmas-agentic-083000425.html
+News,9988.HK,Alibaba,2026-11-12T06:48:09.000Z,-0.2023,BEARISH,95.55,BUY,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Why is Alibaba stock sliding today? By Investing.com. Published 12/11/2026, 05:48 pm
+
+© Reuters.
+
+Investing.com -- Alibaba Group Holding Ltd shares dropped 5.0% to HK$95.55 on Thursday after a report ...",https://au.investing.com/news/stock-market-news/why-is-alibaba-stock-sliding-today-93CH-4763937
+News,9988.HK,Alibaba,2026-11-12T04:11:30.000Z,-0.3612,BEARISH,105,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Hang Seng falls 223 points by midday, Alibaba dips nearly 5 percent. Hang Seng falls 223 points by midday, Alibaba dips nearly 5 percent
+
+# Hang Seng falls 223 points by midday, Alibaba dips nearly 5 ...",https://www.thestandard.com.hk/finance/article/348274/Hang-Seng-falls-223-points-by-midday-Alibaba-dips-nearly-5-percent
+News,9988.HK,Alibaba,2026-11-11T03:08:17.000Z,0.9493,BULLISH,70,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Alibaba announces plans to list T-Head, its Nvidia chip rival. Published Tue, Nov 10 2026 10:08 PM EST Updated Wed, Nov 11 2026 2:47 AM EST
+
+Evelyn Cheng@in/evelyn-cheng-53b23624@chengevelyn
+
+Key Poin...",https://www.cnbc.com/2026/11/11/alibaba-pr.html
+News,9988.HK,Alibaba,2026-11-12T00:00:00.000Z,0.7184,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"港股异动 | 阿里巴巴-W(09988)早盘跌超5% 美银指分拆平头哥为正面催化剂 但重新估值需要更多证据. 港股异动 | 阿里巴巴-W(09988)早盘跌超5% 美银指分拆平头哥为正面催化剂 但重新估值需要更多证据
+
+# 港股异动 | 阿里巴巴-W(09988)早盘跌超5% 美银指分拆平头哥为正面催化剂 但重新估值需要更多证据
+
+ 作者： 智通财经 陈秋达 2026-11-12 10:58:31...",https://www.zhitongcaijing.com/content/detail/1522089.html
+News,9988.HK,Alibaba,2026-11-12T02:58:31.000Z,0.7184,BULLISH,95.65,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"港股異動 | 阿里巴巴-W(09988)早盤跌超5% 美銀指分拆平頭哥爲正面催化劑 但重新估值需要更多證據 作者 智通財經. 港股異動 | 阿里巴巴-W(09988)早盤跌超5% 美銀指分拆平頭哥爲正面催化劑 但重新估值需要更多證據 作者 智通財經
+
+# 港股異動 | 阿里巴巴-W(09988)早盤跌超5% 美銀指分拆平頭哥爲正面催化劑 但重新估值需要更多證據
+
+作者
+
+股市
+
+發布 2026年1...",https://hk.investing.com/news/stock-market-news/article-1753840
+News,9988.HK,Alibaba,2026-11-10T15:42:47.000Z,0.9014,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"SKN | Alibaba's AI Chip Unit T-Head Confidentially Files for Hong Kong IPO - IPO Momentum. Date:
+
+November 10, 2026
+
+Alibaba Group is advancing plans to spin off its semiconductor subsidiary, T-Head, ...",https://ipomomentum.com/skn-alibabas-ai-chip-unit-t-head-confidentially-files-for-hong-kong-ipo/
+News,9988.HK,Alibaba,2026-11-06T05:20:26.000Z,0.8225,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Alibaba T-Head Hong Kong Stocks Spinoff Confirmed by Exchange | Gate News. # Alibaba T-Head Hong Kong Stocks Spinoff Confirmed by Exchange
+
+2026-11-11 15:45:54
+
+- T-Head received Hong Kong Stock Excha...",https://www.gate.com/news/detail/BABA/alibaba-t-head-hong-kong-stocks-spinoff-confirmed-by-exchange-25559437
+News,9988.HK,Alibaba,2026-11-12T04:43:39.000Z,0.6908,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Semiconductors lift China stocks; Hong Kong falls as Alibaba weighs | International. Semiconductors lift China stocks; Hong Kong falls as Alibaba weighs | International
+
+# Semiconductors lift China st...",https://www.devdiscourse.com/article/international/4005544-semiconductors-lift-china-stocks-hong-kong-falls-as-alibaba-weighs
+News,0005.HK,HSBC,2026-11-12T03:40:00.000Z,0.9855,BULLISH,14,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"HSBC explores Singapore base to reduce China reliance | The Straits Times. # HSBC explores bolstering Singapore to balance China reliance
+
+HSBC’s review highlights how some of the world’s largest fina...",https://www.straitstimes.com/business/hsbc-explores-bolstering-singapore-to-balance-china-reliance
+News,0005.HK,HSBC,2026-11-10T22:06:24.000Z,0.9349,BULLISH,143.30,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"HSBC, StanChart Jump 4-5% Before Hot US CPI; Mortgage Cap Holds | IBTimes Hongkong. # HSBC, StanChart Jump 4-5% Before Hot US CPI; Mortgage Cap Holds
+
+## The gains came hours before the US report, whi...",https://hk.ibtimes.com/hsbc-standard-chartered-shares-us-inflation-1812886
+News,0005.HK,HSBC,2026-11-12T01:52:27.000Z,0.9194,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"HSBC weighs greater Singapore autonomy to lessen China reliance, Bloomberg News reports. # HSBC weighs greater Singapore autonomy to lessen China reliance, Bloomberg News reports
+
+FINANCE 4 hours ago
+...",https://www.thestandard.com.hk/finance/article/348256/HSBC-weighs-greater-Singapore-autonomy-to-lessen-China-reliance-Bloomberg-News-reports
+News,0005.HK,HSBC,2026-11-11T00:00:00.000Z,0.891,BULLISH,Not mentioned,HOLD,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"GMT EIGHT - Latest - UBS: HSBC Holdings (00005.HK) Q3 Pre-Provision Profit Below Expectations; Maintains ""Neutral"" Rating. GMT EIGHT - Latest - UBS: HSBC Holdings (00005.HK) Q3 Pre-Provision Profit Be...",https://gmteight.com/flash/detail/1576462
+News,0005.HK,HSBC,2026-11-10T03:40:04.000Z,0.891,BULLISH,142.0,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Understanding the Market | JPMorgan Says Market Overly Worried About Margin Pressure; HSBC Holdings and STANCHART Both R… | Longbridge. Nov 10, 2026 at 03:40 AM
+
+I'm LongbridgeAI. Here is the key info...",https://longbridge.com/en/news/304948679
+News,0005.HK,HSBC,2026-11-11T08:34:07.000Z,0.8555,BULLISH,180,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Hang Seng closes down 241 points as tech and EV shares weigh, SMIC jumps 3.7%. Hang Seng closes down 241 points as tech and EV shares weigh, SMIC jumps 3.7%
+
+# Hang Seng closes down 241 points as tech...",https://www.thestandard.com.hk/finance/article/348184/Hang-Seng-closes-down-241-points-as-tech-and-EV-shares-weigh-SMIC-jumps-37
+News,0005.HK,HSBC,2026-11-06T00:00:00.000Z,0.9971,BULLISH,1,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"HSBC Holdings announces an increase in the maximum acquisition amount for a series of securities tender offers. -0.89% 
+
+HSBC Holdings announces an increase in the maximum acquisition amount for a ser...",https://www.hkwdb.com/en/news/1261591
+News,0005.HK,HSBC,2026-11-07T10:49:53.000Z,0.9917,BULLISH,15.66,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"HSBC stock: Digital wealth and AI plans widen focus. # HSBC stock: Digital wealth and AI plans widen focus
+
+ Published on 11/07/2026 at 11:49 | Editorial responsibility: Rafael Müller, Editor-in-Chief...",https://www.ad-hoc-news.de/boerse/news/corporate-news/hsbc-stock-digital-wealth-and-ai-plans-widen-focus/70474030
+News,0005.HK,HSBC,2026-11-12T02:09:47.000Z,0.9607,BULLISH,16.41,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Hang Seng opens lower as tech giant slips, Nvidia-linked inverse product surges 14%. Hang Seng opens lower as tech giant slips, Nvidia-linked inverse product surges 14%
+
+# Hang Seng opens lower as tec...",https://www.thestandard.com.hk/finance/article/348257/Hang-Seng-opens-lower-as-tech-giant-slips-Nvidia-linked-inverse-product-surges-14
+News,0005.HK,HSBC,2026-11-05T11:00:51.000Z,0.998,BULLISH,15.98,HOLD,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"HSBC stock gains as Q3 profit rises and buyback plans hold. # HSBC stock gains as Q3 profit rises and buyback plans hold
+
+ Published on 11/05/2026 at 12:00 | Editorial responsibility: Rafael Müller, E...",https://www.ad-hoc-news.de/boerse/news/corporate-news/hsbc-stock-gains-as-q3-profit-rises-and-buyback-plans-hold/70462921
+News,3690.HK,Meituan,2026-11-11T07:46:46.000Z,0.0,NEUTRAL,408.8,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"美團(03690)尾市挫4%. 美團(03690)尾市挫4%
+
+# 美團(03690)尾市挫4%
+
+ infocast 2026年11月11日週三 上午2:46 [EST] 
+
+- 3690.HK 
+
+-0.07%
+- 0700.HK 
+
+-1.22%
+- BABA 
+
+-1.78%
+
+<匯港通訊> 美團(03690)尾市挫4%至72.3元。騰訊(00700)報408.8元，挫2.202%。 阿里...",https://hk.finance.yahoo.com/news/%E7%BE%8E%E5%9C%98-03690-%E5%B0%BE%E5%B8%82%E6%8C%AB4-074646002.html
+News,3690.HK,Meituan,2026-11-09T00:00:00.000Z,0.9531,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"港股科网股走势分化美团独跌近6% 电商增长焦虑升温引关注. 港股科网股走势分化美团独跌近6% 电商增长焦虑升温引关注
+
+2026-11-09 15:19 星期一 财联社 冯轶 
+
+财联社11月9日讯（编辑 冯轶）港股互联网板块今日走势分化，一众科网股中，美团日内大幅下挫近6%，引发市场关注。
+
+消息面上，有媒体报道称，摩根士丹利最新发布的研究将美团评级下调至“与大市同步”，目标价则从110港元下调...",https://m.cls.cn/detail/2528937
+News,3690.HK,Meituan,2026-11-12T00:00:00.000Z,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"【热炒半新股】美团挫逾3%逼近招股价爽报  11月12日最新消息_YesDaily.com!. 【热炒半新股】美团挫逾3%逼近招股价爽报 11月12日最新消息_YesDaily.com!
+
+# 【热炒半新股】美团挫逾3%逼近招股价 
+
+ 发布时间：2026-11-12 爽报 YesDaily.COM 207 
+
+美团点评(03690)今早受压，暂时最多跌3.2%，见69.8元创上市新低，逼近招股价...",https://www.yesdaily.com/xinwen_94720.html
+News,3690.HK,Meituan,2026-11-09T08:28:09.000Z,0.8481,BULLISH,173.7,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Hong Kong shares close down 32 points, Meituan plunges 6.53 percent. Hong Kong shares close down 32 points, Meituan plunges 6.53 percent
+
+# Hong Kong shares close down 32 points, Meituan plunges 6.53 ...",https://www.thestandard.com.hk/finance/article/347950/Hong-Kong-shares-close-down-32-points-Meituan-plunges-653-percent
+News,3690.HK,Meituan,2026-11-09T19:00:00.000Z,0.9698,BULLISH,24448,BUY,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"港股反覆跌32點 美團急插6.5%. 港股反覆跌32點 美團急插6.5%
+
+ 
+
+# 港股反覆跌32點 美團急插6.5%
+
+更新時間：03:00 2026-11-10 HKT 發佈時間：03:00 2026-11-10 HKT
+
+ 
+
+ 港股在上周大升後喘定，短線好淡爭持，恒指早段抽升逾250點後反覆偏軟，收市報24448點，跌32點。成交縮至1737億元；北水淨流入18.6億元。美團（3690）...",https://www.stheadline.com/daily-finance/3635332/%E6%B8%AF%E8%82%A1%E5%8F%8D%E8%A6%86%E8%B7%8C32%E9%BB%9E%E7%BE%8E%E5%9C%98%E6%80%A5%E6%8F%9265
+News,3690.HK,Meituan,2026-11-09T04:11:46.000Z,-0.8522,BEARISH,97.4,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Hang Seng Index rose 49 points by midday, Meituan drops 5.47 percent on stock downgrade. Hang Seng Index rose 49 points by midday, Meituan drops 5.47 percent on stock downgrade
+
+# Hang Seng Index rose...",https://www.thestandard.com.hk/finance/article/347934/Hang-Seng-Index-rose-49-points-by-midday-Meituan-drops-547-percent-on-stock-downgrade
+News,3690.HK,Meituan,2026-11-09T03:45:13.000Z,-0.7275,BEARISH,75.9,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Stock in Focus | Meituan Drops Over 5% as Morgan Stanley Downgrades Rating and Target Price | Longbridge. # Stock in Focus | Meituan Drops Over 5% as Morgan Stanley Downgrades Rating and Target Price
+...",https://longbridge.com/en/news/304795656
+News,3690.HK,Meituan,2026-11-11T02:16:01.000Z,-0.7184,BEARISH,51.3,SELL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Hang Seng slips 202 points on tech sell-off, rate fears hit property. # Hang Seng slips 202 points on tech sell-off, rate fears hit property
+
+FINANCE 11-11-2026 10:16 HKT
+
+by
+
+Gloria Leung
+
+Hong Kong ...",https://www.thestandard.com.hk/finance/article/348132/Hang-Seng-slips-202-points-on-tech-sell-off-rate-fears-hit-property
+News,3690.HK,Meituan,2026-11-11T00:00:00.000Z,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"GMT EIGHT - Latest - Meituan-W (03690.HK): Proposed Issuance of RMB Senior Notes. GMT EIGHT - Latest - Meituan-W (03690.HK): Proposed Issuance of RMB Senior Notes
+
+# Meituan-W (03690.HK): Proposed Iss...",https://www.gmt8press.com/flash/detail/1573334
+News,1810.HK,Xiaomi,2026-11-11T15:49:43.000Z,0.6808,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Xiaomi Bought Back 1.7 MLN Type B Shares For HKD49.9 MLN On Nov 11, HKEX Filing Shows — TradingView News. Xiaomi Bought Back 1.7 MLN Type B Shares For HKD49.9 MLN On Nov 11, HKEX Filing Shows — Tradin...","https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46S0FJ:0-xiaomi-bought-back-1-7-mln-type-b-shares-for-hkd49-9-mln-on-nov-11-hkex-filing-shows/"
+News,1810.HK,Xiaomi,2026-11-12T02:02:32.000Z,0.9638,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"《大行》里昂：小米(01810.HK)料第三季经调整净利润跌62% 料盈利见底、第四季复苏. 《大行》里昂：小米(01810.HK)料第三季经调整净利润跌62% 料盈利见底、第四季复苏
+
+# 《大行》里昂：小米(01810.HK)料第三季经调整净利润跌62% 料盈利见底、第四季复苏
+
+ 阿斯达克 10:02
+
+里昂发表报告指，小米第三季盈利或因中国消费疲弱及全球零部件成本上涨而进一步下滑，但预期第...",https://news.futunn.com/post/1004241161/major-brokerage-clsa-xiaomi-01810-hk-expected-to-see-62
+News,1810.HK,Xiaomi,2026-11-12T02:41:49.000Z,0.8999,BULLISH,35,BUY,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Xiaomi Buyback Fails to Offset Rate-Driven Slide as Daiwa Lifts Target to HK$35. Xiaomi shares fell 3.0% to €3.37 amid rate worries. The company bought back 1.66 million Class B shares, and Daiwa rais...",https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/xiaomi-buyback-fails-to-offset-rate-driven-slide-as-daiwa-lifts-target-to-hk-35/70494740
+News,1810.HK,Xiaomi,2026-11-03T05:35:12.000Z,0.9493,BULLISH,28.92,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Stock Movers | Xiaomi Continues to Attract Investor Interest; Investment Banks Say Multiple Headwinds May Have Bottomed … | Longbridge. HKEJ
+
+Nov 3, 2026 at 05:35 AM
+
+Xiaomi Corporation (01810) contin...",https://longbridge.com/en/news/304058075
+News,1810.HK,Xiaomi,2026-11-09T20:41:30.000Z,-0.0772,BEARISH,49.9,BUY,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Xiaomi Trims Buyback Tab While BofA Cuts Q3 Revenue View. Xiaomi repurchased 1.66 million B-shares for HK$49.9 million, set up an auto international unit, and plans RMB 200 billion in R&D over five ye...",https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/xiaomi-trims-buyback-tab-while-bofa-cuts-q3-revenue-view/70483182
+News,1810.HK,Xiaomi,2026-11-12T05:01:39.000Z,0.9136,BULLISH,35,BUY,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Xiaomi Sinks With Hong Kong Tech Peers as Buyback and Daiwa Upgrade Fail to Halt Slide. Xiaomi stock dropped 3.0% to EUR 3.37 amid global rate anxiety. Daiwa raised its target to HK$35, and Xiaomi kep...",https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/xiaomi-sinks-with-hong-kong-tech-peers-as-buyback-and-daiwa-upgrade-fail-to-halt-slide/70495141
+News,1810.HK,Xiaomi,2026-11-02T05:22:12.000Z,0.8555,BULLISH,28.14,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Xiaomi shares climb as October EV deliveries top 50,000 By Investing.com. # Xiaomi shares climb as October EV deliveries top 50,000
+
+Author Ayushman Ojha
+
+Published 02/11/2026, 05:22
+
+© Reuters
+
+1810 ...",https://uk.investing.com/news/stock-market-news/xiaomi-shares-climb-as-october-ev-deliveries-top-50000-4947663
+News,1810.HK,Xiaomi,2026-11-11T19:41:33.000Z,0.5423,BULLISH,49.9,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Xiaomi Buyback and Beijing IoT Paper Fail to Shield Stock From Rate Squeeze. Xiaomi repurchased 1.66M Class B shares for about HK$49.9M as its stock fell 2.1%; it is also reviewing early-stage India a...,https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/xiaomi-buyback-and-beijing-iot-paper-fail-to-shield-stock-from-rate-squeeze/70494136
+News,1810.HK,Xiaomi,2026-11-10T14:43:36.000Z,0.9719,BULLISH,3.46,BUY,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Xiaomi stock gains as Xetra move sharpens November 24 earnings test. Xiaomi stock traded higher on Tuesday as investors looked toward the November 24 results. CICC retained its Buy rating and set a HK...,https://www.ad-hoc-news.de/boerse/news/corporate-news/xiaomi-stock-gains-as-xetra-move-sharpens-november-24-earnings-test/70486787
+News,1810.HK,Xiaomi,2026-11-02T05:16:27.000Z,0.9605,BULLISH,28.14,BUY,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Why is Xiaomi stock surging today? By Investing.com. © Reuters.
+
+Investing.com -- Xiaomi stock surged 6.3% to HK$28.14 today after the company’s electric vehicle division disclosed October deliveries ...",https://www.investing.com/news/stock-market-news/why-is-xiaomi-stock-surging-today-93CH-4989876
+Telegram,9988.HK,Alibaba,2026-11-12T07:21:53+00:00,-0.9517,BEARISH,93.6,SELL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"黃仁勳出軌｜阿里巴巴瀉7%、勢5連跌！　 分析稱或受累英偉達事件
+
+港股反彈浪結束，重磅股回落，惟阿里巴巴﹙9988﹚半日盤中瀉5%，午後跌勢加深，現報93.6元，瀉7%。計及今日，該股將邁向五日連跌。分析稱或受英偉達事件拖累以盤中價計，阿里股價較近日109元高位累瀉逾12%，股價勢創7月以來新低，並在恒生科技指數中表現最差。彭博引述光大證券國際證券策略師Kenny Ng表示，對英偉達事件，市場還...",https://t.me/StockIntelligenceNews/5720475
+Telegram,9988.HK,Alibaba,2026-11-12T06:55:42+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"#焦點
+港股科網股進一步走低，阿里巴巴(09988.HK)一度跌7%，快手(01024.HK)跌5.58%，BOSS直聘(02076.HK)跌3.1%，嗶哩嗶哩(09626.HK)跌2.8%。",https://t.me/StockIntelligenceNews/5720352
+Telegram,9988.HK,Alibaba,2026-11-12T06:47:24+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"阿里巴巴-W (09988) 有8宗大手成交 涉資2.09億元
+
+股份名稱： 阿里巴巴－W (09988)
+大手宗數： 8宗
+價格： 94.80 - 95.30元
+數量： 219.48萬
+涉資： 2.09億元
+時間 價格 數量 涉資
+--------------------------------------------------
+14：27：52 95.300 276,000 26,302,8...",https://t.me/StockIntelligenceNews/5720311
+Telegram,0700.HK,Tencent,2026-11-12T06:21:27+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"【700】騰訊馬化騰將AI新業務喻為海軍　稱公司需利用AI最大化其工作效率
+
+彭博引述消息指，騰訊（00700）主席馬化騰於公司週年演講表示，科網行業已進入到「探索時代（Age of Discovery）」，並將騰訊的主要業務比喻成軍隊（army），並將新AI業務喻成海軍（navy），而公司正分配一半人員到新AI業務當中，指出公司需利用AI最大化其工作效率。引知情人士指，馬化騰的言論為敦促所有員工...",https://t.me/StockIntelligenceNews/5720221
+Telegram,9988.HK,Alibaba,2026-11-12T06:10:35+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"阿里巴巴-W (09988) 有1宗大手成交 涉資2,837.5萬元
+
+股份名稱： 阿里巴巴－W (09988)
+大手宗數： 1宗
+價格： 95.25元
+數量： 29.79萬
+涉資： 2,837.5萬元
+時間 價格 數量 涉資
+--------------------------------------------------
+13：47：00 95.250 297,900 28,374,975
+...",https://t.me/StockIntelligenceNews/5720179
+Telegram,1810.HK,Xiaomi,2026-11-12T05:54:14+00:00,0.9545,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"《大行》大摩：中國人形機器人股急升惟商業化時間表延後 規模化料循漸進路徑
+
+摩根士丹利發表研究報告指，中國人形機器人相關股份因智能拐點預期升溫而大幅反彈，惟採納興趣雖維持高企，預期採納時間表已延後約一年，加上預期售價下調及產品就緒度有限，顯示邁向規模化將循漸進路徑。該行指出，自10月15日以來，中國人形機器人股急升，其中宇樹科技(688836.SH)升62%、雙環傳動(002472.SZ)升31%...",https://t.me/StockIntelligenceNews/5720119
+Telegram,9988.HK,Alibaba,2026-11-12T05:41:15+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"阿里巴巴-W (09988) 有6宗大手成交 涉資2億元
+
+股份名稱： 阿里巴巴－W (09988)
+大手宗數： 6宗
+價格： 95.40 - 95.60元
+數量： 209.29萬
+涉資： 2億元
+時間 價格 數量 涉資
+--------------------------------------------------
+13：00：02 95.500 300,000 28,650,000
+13：...",https://t.me/StockIntelligenceNews/5720075
+Telegram,0005.HK,HSBC,2026-11-12T05:31:32+00:00,-0.8591,BEARISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"午間新聞精選丨領展中期分派微增
+
+1.823丨領展中期分派127.25仙 料收入仍微跌領展房產基金(00823)中期可分派總額升0.37%，每基金單位分派微升。領展主席歐敦勤表示，核心物業組合部分業務已初現回穩跡象，但預期收入仍會輕微下跌。2.滙豐傳探索加強新加坡業務 降對華依賴彭博援引知情人士報道，滙豐(00005)探索如何降低對包括香港在內的中國業務的依賴，並給予新加坡業務更大獨立性。3.黃仁...",https://t.me/StockIntelligenceNews/5720044
+Telegram,9988.HK,Alibaba,2026-11-12T04:57:51+00:00,-0.926,BEARISH,109,SELL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"黃仁勳出軌｜阿里巴巴瀉半成、邁5連跌　 分析稱或受累英偉達事件
+
+港股反彈浪結束，重磅股回落，惟阿里巴巴﹙9988﹚半日盤中瀉5%，低見95.6元。計及今日，該股將邁向五日連跌。分析稱或受英偉達事件拖累以盤中價計，阿里股價較近日109元高位累瀉逾12%，股價勢創7月以來新低，並在恒生科技指數中表現最差。彭博引述光大證券國際證券策略師Kenny Ng表示，對英偉達事件，市場還有點憂慮，如果上升為國家...",https://t.me/StockIntelligenceNews/5719955
+Telegram,0700.HK,Tencent,2026-11-12T04:48:42+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"騰訊否認裁員8,000人傳聞 脈脈「同事圈」曾訪問異常
+
+騰訊(00700.HK)昨日(11日)舉行28周年內部全員會，傳出組織變革與人員調整消息，涉及裁員8,000人，職級13的元老同樣被裁員，最集中的動靜在混元，不過接近騰訊的知情人士表示，該說法完全不屬實。據悉，騰訊管理層主動表達要加快組織變革的決心，同時特別提到，這和幾年前那次「降本增效」不一樣。前一次相對被動，更偏「降本」；這一次是面向A...",https://t.me/StockIntelligenceNews/5719934
+Telegram,9988.HK,Alibaba,2026-11-12T04:38:41+00:00,-0.4939,BEARISH,95.65,HOLD,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"異動股丨阿里挫半成 邁向五日連跌
+
+阿里巴巴(09988)延續近期頹勢，一度下跌5.2%，低見95.35元。該股已連跌四個交易日。截至上午11時55分，報95.65元，下挫4.9%，成交逾80.5億元。阿里巴巴周二表示，已建議分拆旗下人工智能(AI)晶片設計公司平頭哥於香港主板獨立上市。這家電商與雲服務巨頭正寄望於為晶片研發引入更多外部資金，並提升集團整體估值表現。彭博引述光大證券國際證券策略師K...",https://t.me/StockIntelligenceNews/5719901
+Telegram,1810.HK,Xiaomi,2026-11-12T04:33:56+00:00,0.9217,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"京東「雙 11」成果揭曉：服務訂單量逾 3 億、售逾 5000 萬件 AI 產品
+
+京東「雙11」戰報發布，截至11日晚間11時59分，2026年京東雙11售出逾5000萬件人工智慧產品，產生超3億單服務訂單，首次參與的新用戶平均下單6件商品。「AI」也是第1次在大促口徑裡成為可計價的商品。雙11期間，平台「Token」搜尋量較上季提升超13倍，大模型Token包銷量較上月成長超10倍；AI PC...",https://t.me/StockIntelligenceNews/5719889
+Telegram,9988.HK,Alibaba,2026-11-12T04:27:05+00:00,-0.2023,BEARISH,Not mentioned,BUY,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"麥格理即市短評：金礦股受壓 部署反彈留意紫國購19101
+
+金礦股受壓 部署反彈留意紫國購19101
+港股延續跌勢，大市今早(12日)低開194點後跌幅擴大，半日跌223點，曾失守24000點關口，電商股受壓，阿里巴巴(09988) 股價半日跌近半成。據報長和(00001)推遲旗下屈臣氏倫敦及香港雙重上市計劃，該股股價半日受壓跌4.2%，失守10天綫。投資者在如有意部署該股反彈，可留意長和購(17...",https://t.me/StockIntelligenceNews/5719867
+Telegram,9988.HK,Alibaba,2026-11-12T04:11:10+00:00,0.8126,BULLISH,24092.89,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"港股午評：兩大指數低位震盪 芯片股逆市走高
+
+恆生指數與恆生科技指數開盤後雙雙快速下探，隨後在低位維持震盪。截至午間收盤，恆指收跌0.92%，報24092.89點，科指收跌1.41%，報3970.28點，恆指大市成交額達1056.44億港元。盤面上，黃金及貴金屬、有色金屬、短視頻概念股、物理AI等板塊跌幅居前，PCB概念、芯片股、生物醫藥等板塊逆市走高。個股方面，科網股低開低走，阿里巴巴(0998...",https://t.me/StockIntelligenceNews/5719811
+Telegram,9988.HK,Alibaba,2026-11-12T04:01:09+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"港股午評：恆生指數跌0.92%，恆生科技指數跌1.41%
+
+京東集團-SW跌3.51%，洛陽鉬業跌3.72%，紫金礦業跌3.73%，MINIMAX-W跌4.00%，長和跌4.23%，阿里巴巴-W跌4.97%，智譜跌5.21%。",https://t.me/StockIntelligenceNews/5719797
+Telegram,0700.HK,Tencent,2026-11-12T03:57:51+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"知情人士：騰訊“裁員50%”説法完全不屬實
+
+11月12日消息，針對今日外界關於“騰訊裁員50%”的説法，界面新聞從接近騰訊的知情人士處獲悉，在騰訊28週年的Linktime線上直播中，騰訊管理層主動表達了要加快組織變革的決心，同時特別提到，這和幾年前那次“降本增效”不一樣。前一次相對被動，更偏“降本”；這一次是面向AI時代的主動出擊，更偏“增效”，激發團隊去創造新的價值，鼓勵一線同事積極舉手向前...",https://t.me/StockIntelligenceNews/5719793
+Telegram,0005.HK,HSBC,2026-11-12T03:44:19+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"滙豐據報擬加強新加坡業務　望成港以外第二基地　減少對中國依賴
+
+外電消息稱，滙豐(0005)一直在探索各種途徑，以降低對包括香港在內的中國業務的依賴，並給予新加坡業務更大獨立性，因為其正在尋求分散其亞洲業務風險。彭博援引知情人士透露，滙豐正尋求分散亞洲業務的風險，已就給予新加坡業務更大自主權的多個方案，進行了內部討論。這項計劃名為「塞壬項目」（Project Sirena）。知情人士表示，滙豐未來...",https://t.me/StockIntelligenceNews/5719734
+Telegram,9988.HK,Alibaba,2026-11-12T03:39:45+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"阿里巴巴-W (09988) 有4宗大手成交 涉資1.3億元
+
+股份名稱： 阿里巴巴－W (09988)
+大手宗數： 4宗
+價格： 95.40 - 96.175元
+數量： 135.86萬
+涉資： 1.3億元
+時間 價格 數量 涉資
+--------------------------------------------------
+10：59：01 95.400 300,000 28,620,00...",https://t.me/StockIntelligenceNews/5719708
+Telegram,0005.HK,HSBC,2026-11-12T03:36:52+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"滙豐傳整合新加坡業務 香港總部地位未變
+
+滙豐（00005）據報正評估代號「Project Sirena」的內部方案，計劃把新加坡主要銀行服務整合至單一實體，並研究將亞洲其他業務納入新加坡附屬公司，以分散大中華風險。管理層強調，香港作為亞洲業務總部的地位暫未改變，所有亞太區銀行實體仍由香港上海滙豐銀行擁有及管理。
+
+#FortuneInsight | 來源",https://t.me/StockIntelligenceNews/5719692
+Telegram,1810.HK,Xiaomi,2026-11-12T02:47:57+00:00,0.9393,BULLISH,Not mentioned,Not mentioned,Not mentioned,10,Not mentioned,Not mentioned,"京東雙11丨服務訂單量逾3億 香港站用戶數漲逾1倍
+
+京東集團(09618)公布今年「雙11」數據，期內共售出逾5000萬件人工智能(AI)產品，產生逾3億服務訂單。至於香港站用戶數按年增長逾1倍。多個品牌成交額破10億京東於10月12日晚上8時至11月11日晚上11時59分數據顯示，第一次參加的新朋友平均下單6件商品。在高峰期，手機品類銷售按年飆逾4.4倍；京東佳寶網上店舖銷售額實現按月增長2....",https://t.me/StockIntelligenceNews/5719589
+Telegram,9988.HK,Alibaba,2026-11-12T02:35:50+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"阿里巴巴-W (09988) 有4宗大手成交 涉資9,567.68萬元
+
+股份名稱： 阿里巴巴－W (09988)
+大手宗數： 4宗
+價格： 97.05 - 97.70元
+數量： 98.19萬
+涉資： 9,567.68萬元
+時間 價格 數量 涉資
+--------------------------------------------------
+09：52：55 97.700 235,400 2...",https://t.me/StockIntelligenceNews/5719531
+Telegram,1810.HK,Xiaomi,2026-11-12T02:29:42+00:00,0.9981,BULLISH,Not mentioned,Not mentioned,Not mentioned,10,Not mentioned,Not mentioned,"【雙11】京東11.11服務訂單量逾3億、售逾5000萬件AI產品　香港站用戶數按年增逾倍
+
+京東（09618）公布「雙11」數據，自10月12日20：00至11月11日23：59，2026年京東11.11大促共售出逾5000萬件人工智能（AI）產品，產生超過3億服務訂單，第一次參加京東11.11大促的新朋友平均下單6件商品。期內京東香港站用戶數按年增長逾100%，在京東11.11高峰期，手機品類...",https://t.me/StockIntelligenceNews/5719505
+Telegram,9988.HK,Alibaba,2026-11-12T02:23:15+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,港股科網股持續震盪走低，京東(09618.HK)跌4.23%，阿里巴巴(09988.HK)跌3.73%，阿里健康(00241.HK)跌3.5%，貝殼(02423.HK)跌3.48%。,https://t.me/StockIntelligenceNews/5719486
+Telegram,9988.HK,Alibaba,2026-11-12T01:54:38+00:00,-0.4939,BEARISH,24121.4,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"恒指低開194點 阿里巴巴挫2%
+
+港股今早初段下挫，恒指開市報24121.4點，挫194.52點，科指開市報3995點，跌0.8%，國指8105.15點，跌0.81%。阿里巴巴(09988)低開2.19%報98.4元，失100元。騰訊(00700)低開1.37%報404元。網易(09999)低開2.03%。匯豐控股(00005)低開0.64%，友邦保險(01299)低開1.77%報77.5元。
+...",https://t.me/StockIntelligenceNews/5719388
+Telegram,9988.HK,Alibaba,2026-11-12T01:53:53+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"阿里巴巴-W (09988) 有5宗大手成交 涉資2.01億元
+
+股份名稱： 阿里巴巴－W (09988)
+大手宗數： 5宗
+價格： 100.604 - 100.75元
+數量： 200.07萬
+涉資： 2.01億元
+時間 價格 數量 涉資
+--------------------------------------------------
+09：00：05 100.604 340,000 34,2...",https://t.me/StockIntelligenceNews/5719379
+Telegram,0005.HK,HSBC,2026-11-12T01:49:39+00:00,0.9325,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"【HSBC】滙豐據報探索加強新加坡業務、分散大中華風險　香港地位暫未動搖
+
+HSBC滙豐（00005）據報研探索加強新加坡業務。面對全球地緣政治風險升溫，及亞洲區業務過度依賴香港和中國市場挑戰，滙豐據報正研究提升新加坡業務的獨立性，藉此分散風險及加強營運靈活性。相關內部評估以「Project Sirena」為代號，最終目標或是在香港以外建立另一個區域業務中心。消息指，滙豐內部正討論多項方案，首階段...",https://t.me/StockIntelligenceNews/5719366
+Telegram,9988.HK,Alibaba,2026-11-12T01:21:06+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"#焦點
+港股開盤：恆生指數跌0.80%，恆生科技指數跌0.80%
+
+紫金礦業跌1.87%，新東方-S跌1.87%，京東集團-SW跌1.89%，理想汽車-W跌1.89%，建設銀行跌2.00%，網易跌2.03%，阿里巴巴-W跌2.19%。",https://t.me/StockIntelligenceNews/5719223
+Telegram,9988.HK,Alibaba,2026-11-12T01:20:52+00:00,-0.4939,BEARISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"#焦點
+港股開盤，恆指開跌0.8%，科指開跌0.8%。科網股下挫，百度(09888.HK)跌1.27%，阿里巴巴(09988.HK)跌2.19%。",https://t.me/StockIntelligenceNews/5719220
+Telegram,0005.HK,HSBC,2026-11-11T20:38:23+00:00,-0.5423,BEARISH,Not mentioned,SELL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"【GOOGL】Alphabet擬發行港元及新加坡元債券　集資約30億美元　應付AI投資
+
+Google母公司Alphabet（美：GOOGL）據報計劃首次發行港元及新加坡元債券，目標集資約30億美元，應對公司持續增加AI數據中心及運算基建的投資。路透引述兩名知情人士報道，港元債券規模擬至少80億港元，新加坡元債券則至少15億新加坡元，最快周四（12日）啟動發售。根據路透取得的交易條款文件，Alph...",https://t.me/StockIntelligenceNews/5718765
+Telegram,9988.HK,Alibaba,2026-11-11T15:03:43+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"阿里AI大模型Qwen4-Max預覽版上線　推限時優惠試用
+
+全新一代千問大模型Qwen4即將發佈。阿里巴巴(09988)旗下通義千問(Qwen)宣布推出Qwen4-Max預覽版，並於通義千問的Token計劃內上線，可用於文本生成、推理及視覺理解，並提供限時兩折優惠試用，新用戶還可疊加優惠降至1折試用。阿里雲token訂閱計劃顯示，阿里雲提供「Lite」、「Essential」、「Standard...",https://t.me/StockIntelligenceNews/5718316
+Telegram,9988.HK,Alibaba,2026-11-11T11:34:39+00:00,-0.9517,BEARISH,Not mentioned,SELL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"東易日盛：天津晨尚減持0.9988%股份，持股比例降至5.9991%
+
+東易日盛公吿，持股5%以上股東天津晨尚諮詢有限公司於2026年9月29日至11月10日通過集中競價和大宗交易方式累計減持公司股份950.3萬股，佔總股本的0.9988%。減持後，天津晨尚持股比例由6.9979%降至5.9991%，本次變動觸及1%的整數倍。此次減持與此前披露的減持意向、承諾及計劃一致，實際減持數量未超過計劃數量...",https://t.me/StockIntelligenceNews/5717681
+Telegram,0005.HK,HSBC,2026-11-11T11:03:26+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"周杰倫巨星傳奇｜旗下全球首間科技Cafe直擊　咖啡師竟唔係人？
+
+由周杰倫的母親葉惠美、經紀人楊峻榮等人共同創立的巨星傳奇集團（6683）旗下「下一代娛樂科技空間」Pandabot Cafe全球首店今日（11日）於香港尖沙咀正式開業。集團將IP資源與具身智能技術一同搬進實體門店，店內配置機械臂咖啡師、宇樹G1人形機器人「明星店長」、四足機器狗及AI數字人點單屏，試圖以「IP×科技」組合切入實體消費...",https://t.me/StockIntelligenceNews/5717480
+Telegram,0005.HK,HSBC,2026-11-11T10:19:08+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"巨星傳奇Pandabot Cafe首店落戶尖沙咀 日後或接受數字貨幣支付
+
+由巨星傳奇(06683.HK)打造的 Pandabot Cafe 全球首店於香港尖沙咀正式啟幕。Pandabot Cafe 以「具身智能＋AIGC＋頂流IP」三引擎為核心，讓「人、機、內容」在同一空間內共生。巨星傳奇執行董事兼首席財務官賴國輝表示，香港是連接內地與全球的窗口，尖沙咀更是世界級的流量地標。Pandabot C...",https://t.me/StockIntelligenceNews/5717289
+Telegram,0700.HK,Tencent,2026-11-11T09:21:29+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"騰訊元寶搜索引擎正式上線
+
+騰訊(00700)旗下元寶公布，繼不久前向開發者與企業用戶推出「元寶搜索」API後，今日面向所有C端用戶的搜索引擎「元寶搜索」正式上線，用戶可於QQ瀏覽器中切換為元寶搜索引擎(so.qq.com)，而PC及移動端同步兼容。元寶搜索依託千億級索引，搜索範圍覆蓋全網網頁、公眾號、視頻號等騰訊生態優質內容及專業學術文獻。搜索結果會優先展示權威機構與官方來源的內容，並將廣告與答...",https://t.me/StockIntelligenceNews/5717058
+Telegram,0700.HK,Tencent,2026-11-11T08:27:58+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"中國互金協會：穩慎推進互聯網貸款自律工委成員單位遴選
+
+中國互聯網金融協會互聯網貸款自律工作委員會籌備組第三次會議日前在京召開。協會秘書處主持會議，度小滿、螞蟻科技、騰訊(00700.HK)、京東科技及抖音等籌備組成員單位出席會議。會議審議通過籌備工作報告，同意按流程提請成立工作委員會。會議認為，籌備組自成立以來，重點聚焦互聯網助貸業務領域，密切關注行業發展動態，深入推動政策貫徹落實，研究報送多期...",https://t.me/StockIntelligenceNews/5716815
+Telegram,0700.HK,Tencent,2026-11-11T08:26:50+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"騰訊上線「元寶搜索」 依托千億級索引覆蓋全網及騰訊生態內容
+
+騰訊(00700.HK)旗下元寶公布，不久前向開發者與企業用戶推出「元寶搜索」API，今日(11日)面向所有C端用戶的搜索引擎「元寶搜索」正式上線，沒有複雜的操作及滿屏廣告，依托千億級索引，搜索範圍覆蓋全網網頁、公眾號、視頻號等騰訊生態內容和學術文獻。同時支援一鍵進入「AI模式」，文字、語音及圖片都能連續追問。用戶可於QQ瀏覽器中切換為...",https://t.me/StockIntelligenceNews/5716806
+Telegram,3690.HK,Meituan,2026-11-11T08:17:13+00:00,0.0,NEUTRAL,24315.92,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"港股收評：兩大指數低開低走 光通信、PCB板塊逆市拉昇
+
+恆指與科指今日低開低走，早盤試圖上攻但動能不足，午後跌幅進一步擴大。截至收盤，恆指收跌0.98%，報24315.92點，科指收跌1.41%，報4027.06點，恆指大市成交額達1807.49億港元（上一交易日為1781.75億港元）。盤面上，大市多數板塊飄綠，航空股、新能源車企、明星科網股表現疲弱。 光通信、PCB概念、半導體等板塊逆市上漲...",https://t.me/StockIntelligenceNews/5716780
+Telegram,3690.HK,Meituan,2026-11-11T08:09:14+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"#焦點
+港股收盤：恆生指數跌0.98%，恆生科技指數跌1.41%
+
+蔚來-SW跌3.02%，小鵬集團-W跌3.11%，網易跌3.34%，理想汽車-W跌3.36%，美團-W跌3.51%，比亞迪股份跌3.82%，百威亞太跌4.44%。",https://t.me/StockIntelligenceNews/5716751
+Telegram,9988.HK,Alibaba,2026-11-11T08:04:41+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"阿里巴巴-W (09988) 有1宗大手成交 涉資2,291.4萬元
+
+股份名稱： 阿里巴巴－W (09988)
+大手宗數： 1宗
+價格： 100.5元
+數量： 22.8萬
+涉資： 2,291.4萬元
+時間 價格 數量 涉資
+--------------------------------------------------
+15：38：22 100.500 228,000 22,914,000
+...",https://t.me/StockIntelligenceNews/5716727
+Telegram,0700.HK,Tencent,2026-11-11T07:03:27+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,據中國互聯網金融協會消息，11月6日，中國互聯網金融協會互聯網貸款自律工作委員會籌備組第三次會議在京召開。協會祕書處主持會議，度小滿、螞蟻科技、騰訊、京東科技、抖音等籌備組成員單位出席會議。會議審議通過籌備工作報吿，同意按流程提請成立工作委員會。會議認為，籌備組自成立以來，重點聚焦互聯網助貸業務領域，密切關注行業發展動態，深入推動政策貫徹落實，研究報送多期熱點前沿問題情況專報，組織開展信貸資金挪用...,https://t.me/StockIntelligenceNews/5716482
+Telegram,9988.HK,Alibaba,2026-11-11T06:52:57+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"阿里千問預告發布Qwen4　Max預覽版率先上線並接入多款產品
+
+內地媒體報道，阿里巴巴(09988)旗下阿里千問宣布，即將發布全新一代千問大模型Qwen4，其中旗艦版本Qwen4-Max預覽版已率先開放公開測試。該預覽版已首發上線阿里Token Plan，提供限時最低一折體驗優惠；同時千問辦公(Qwen Office)、Qoder、千問APP及QwenStudio等旗下多款產品亦已同步接入新模型...",https://t.me/StockIntelligenceNews/5716425
+Telegram,9988.HK,Alibaba,2026-11-11T05:08:41+00:00,0.6705,BULLISH,Not mentioned,BUY,Not mentioned,Not mentioned,300,Not mentioned,"《大行報告》
+
+高盛：料Nvidia第三季業績穩健近期拋售後可布局 目標價300美元
+富瑞： 阿里巴巴(09988)分拆可釋放平頭哥價值 獨立籌集資金
+花旗重申中廣核電力(01816)目標價3.8港元以及「買入」花旗首予牧原股份(02714)H股目標價48港元以及「買入」
+瑞銀：泰格醫藥(03347)參與方達控股私有化或有助聚焦核心業務
+高盛予藥明康德(02359)H股目標價251港元以及「買入」...",https://t.me/StockIntelligenceNews/5716129
+Telegram,9988.HK,Alibaba,2026-11-11T04:46:36+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"AI丨阿里千問預告將發布Qwen4 預覽版率先登場
+
+阿里巴巴(09988)旗下阿里千問指出，將發布全新一代千問大模型Qwen4，Qwen4-Max預覽版已上線。該公司透露，新模型擁有更強的世界知識與感知能力，編程(Coding)與代理式(Agentic)再升級，助力複雜編程、專業辦公、前端設計及專業軟件操作。Qwen4-Max預覽版已上線阿里Token Plan，最低可獲限時一折體驗。而千問辦公...",https://t.me/StockIntelligenceNews/5716081
+Telegram,9988.HK,Alibaba,2026-11-11T04:31:27+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,100,Not mentioned,Not mentioned,Not mentioned,"阿里股價隨市回落再試百元 1200個買盤排隊撈底
+
+阿里巴巴（09988）股價連日偏軟，周三跟隨大市下跌約1%，再度下試100元心理關口，早段一度低見100.1元，最新跌幅擴大至1.2%。早上11時37分，該股在100元價位合共排出1200個買盤，涉及79.6萬股，相等於7960萬元，反映不少投資者計劃在百元水平吸納。
+
+#FortuneInsight | 來源",https://t.me/StockIntelligenceNews/5716017
+Telegram,9988.HK,Alibaba,2026-11-11T04:22:37+00:00,0.4588,BULLISH,Not mentioned,BUY,Not mentioned,Not mentioned,186,Not mentioned,"富瑞: 阿里巴巴(09988)分拆可釋放平頭哥價值 獨立籌集資金
+
+富瑞發表阿里巴巴(09988)報告，目標價186港元，評級「買入」，認為擬議分拆，可釋放平頭哥的價值。阿里巴巴宣布擬將平頭哥(T-Head)分拆並在香港獨立上市(H股形式)。在2026年9月舉行的雲棲大會上，阿里巴巴強調「真武」服務超過650家客戶，而 V900 與 J900 預計將分別於2027年第一季及2028 年第三季推出。...",https://t.me/StockIntelligenceNews/5716001
+Telegram,3690.HK,Meituan,2026-11-11T04:15:46+00:00,0.6808,BULLISH,24352.69,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"港股午評：兩大指數低開低走 科網股與新能源車企全線低迷
+
+恆指與恆生科技指數早間開跌後一度試圖上攻，但動能迅速衰竭，隨後呈現階梯式震盪下探的走勢。截至午間收盤，恆指收跌0.83%，報24352.69點，科指收跌1.36%，報4028.75點，恆指大市成交額達838.16億港元。盤面上，生物醫藥、新能源車企、商業航天等板塊跌幅居前，PCB概念、中醫藥、石油與天然氣等板塊逆市走高。個股方面，科網股低開...",https://t.me/StockIntelligenceNews/5715983
+Telegram,3690.HK,Meituan,2026-11-11T04:01:11+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"港股午評：恆生指數跌0.83%，恆生科技指數跌1.36%
+
+理想汽車-W跌2.88%，網易跌2.90%，零跑汽車跌3.09%，蔚來-SW跌3.17%，比亞迪股份跌3.20%，藥明康德跌3.44%，美團-W跌3.51%。",https://t.me/StockIntelligenceNews/5715943
+Telegram,9988.HK,Alibaba,2026-11-11T03:54:01+00:00,0.0,NEUTRAL,100.1,Not mentioned,100,Not mentioned,Not mentioned,Not mentioned,"【9988】阿里巴巴股價隨市跌1%再下試百元大關　逾千買盤排隊100元入貨撈底
+
+阿里巴巴（09988）股價連日回軟，周三股價隨跌1%，最新再次下試100元心理大關口。逾千個買盤於阿里巴巴100元排隊入貨撈底。阿里巴巴最新跌1.2%，股價一度低見100.1元。早上11時37分，阿里巴巴於100元價位合共排出1200個買盤，涉79.6萬股或7960萬元。
+
+#香港經濟日報 | 來源",https://t.me/StockIntelligenceNews/5715918
+Telegram,9988.HK,Alibaba,2026-11-11T03:47:52+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"阿里新一代千問大模型Qwen4即將發布
+
+阿里巴巴(09988.HK)公布，全新一代千問大模型Qwen4即將發布，Coding與Agentic能力持續進階。從複雜編程、專業辦公，到前端設計、專業軟件操作與Qwen4在實際任務測試中，交出眼前一亮的成果。Qwen4-Max預覽版已首發上線阿里Token Plan，限時最低1折即可體驗Qwen4模型。同時，千問辦公、Qoder、千問APP及QwenSt...",https://t.me/StockIntelligenceNews/5715906
+Telegram,9988.HK,Alibaba,2026-11-11T03:21:21+00:00,0.93,BULLISH,100.8,HOLD,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"張智威：買藥股宜選一籃子的ETF
+
+美國十月份通脹高於預期，市場憂慮聯儲局加快加息，隔晚美股三大指數輕微調整，跌幅均不足1%。港股恒生指數亦見調整。信誠證券聯席董事張智威表示，恒指由10月低位22,800點反彈至11月高位24,871點後進入整固，保力加通道中軸約23,700點。油價方面，布蘭特原油期貨由117美元回落至約91.98美元，再跌空間有限。後市需留意油價走勢及美國經濟資料與聯儲局政策去...",https://t.me/StockIntelligenceNews/5715847
+Telegram,9988.HK,Alibaba,2026-11-11T01:07:25+00:00,0.8402,BULLISH,Not mentioned,HOLD,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"#焦點
+1. 鳳凰衞視(02008.HK)：鳳凰新媒體第三季度總收入為2.176億元，同比增長8.3%。
+2. 智譜(02513.HK)：擬最多40億港元回購H股，購回總數不超過公吿日已發行股份總數的1%。
+3. 阿里巴巴(09988.HK)：擬分拆平頭哥半導體並在港交所獨立上市，已於9月11日祕密遞交上市申請。
+4. 青島港(06198.HK)：擬收購青島港董家口礦石碼頭有限公司70%股權，交易...",https://t.me/StockIntelligenceNews/5715360
+Telegram,9988.HK,Alibaba,2026-11-11T00:56:52+00:00,-0.8225,BEARISH,Not mentioned,SELL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"黃仁勳緋聞牽出中國間諜疑雲 輝達股價連兩日重挫
+
+輝達股價今天持續下跌。由於市場對執行長黃仁勳與一名中國籍女商人的緋聞，以及這名女子涉嫌為北京從事間諜活動所引發後續風波的憂慮加深，其市值在短短兩個交易日一度蒸發逾4700億美元。路透社報導，科技媒體The Information今天引述兩名知情人士報導，黃仁勳與黃樂（Alice Huang）的關係，協助促成至少價值75億美元的輝達（Nvidia）晶...",https://t.me/StockIntelligenceNews/5715330
+Telegram,9988.HK,Alibaba,2026-11-11T00:09:27+00:00,0.743,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"每日科技要聞速遞（11月7日）
+
+人工智能：
+1. OpenAI收購AI旅行代理平台Odessia。
+2. OpenAI第三季度營收升至約100億美元。
+3. Nscale考慮推遲規模350億美元的上市計劃。+
+4. 谷歌發佈Gemini 4 Carbon模型。
+5. 美國AI算力期貨推出遇阻，據悉CFTC將審查期至少延長60天。
+6. 算力總規模位居世界第二，我國推進具身智能等領域數據標準制定。...",https://t.me/StockIntelligenceNews/5715215
+Telegram,9988.HK,Alibaba,2026-11-10T15:18:29+00:00,0.296,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"美媒：黃仁勳婚外情關係 助 75 億美元輝達晶片銷往中國
+
+美國科技媒體The Information今天報導，輝達執行長黃仁勳與疑似是中國間諜的中國籍女商人黃樂發展婚外情，這段關係促成價值至少75億美元的輝達晶片運往中國企業。根據路透社，這篇報導引述兩名認識黃樂（HuangLe，音譯，又名Alice Huang）的人士指出，黃樂與丈夫及姊妹在中國和新加坡建立企業網絡，以取得輝達（Nvidia）晶...",https://t.me/StockIntelligenceNews/5714230
+Telegram,9988.HK,Alibaba,2026-11-10T14:32:08+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"阿里巴巴(09988)擬分拆平頭哥主板上市
+
+阿里巴巴(09988)宣布，已獲聯交所確認該公司可進行建議分拆全資子公司平頭哥(上海)技術股份獨立上市。建議分拆目前擬透過全球發售平頭哥的H股的方式進行。
+
+#匯港通訊 | 來源",https://t.me/StockIntelligenceNews/5714090
+Telegram,9988.HK,Alibaba,2026-11-10T14:30:57+00:00,0.7906,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"#焦點
+美國通脹全面超預期，美股三大股指低開
+
+美國10月通脹超預期上升，美聯儲大幅加息預期升温，美股三大股指集體低開，道指開跌0.4%，標普500指數跌0.6%，納指跌0.8%。明星科技股多數下跌，英偉達(NVDA.O)跌2.6%，英特爾(INTC.O)跌2%，美光科技(MU.O)跌2.2%，蘋果(AAPL.O)漲0.4%。阿里巴巴(BABA.N)跌0.3%，擬分拆平頭哥半導體並在港交所獨立上市...",https://t.me/StockIntelligenceNews/5714083
+Telegram,9988.HK,Alibaba,2026-11-10T13:53:23+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"阿里巴巴：平頭哥已向港交所遞交上市申請
+
+阿里巴巴(09988)於周二(11月10日)晚公布，已向香港聯交所交表，申請旗下子公司平頭哥獨立上市。上市完成後，平頭哥仍將是阿里巴巴子公司。公告顯示，2026年9月11日，平頭哥已向香港聯交所遞交上市申請，擬透過H股在香港聯交所主板獨立上市。據悉，IPO具體規模尚未最終確定。截至2026年4月，平頭哥真武系列AI晶片累計出貨量達56萬片。平頭哥上市安排，...",https://t.me/StockIntelligenceNews/5713944
+Telegram,9988.HK,Alibaba,2026-11-10T13:27:17+00:00,0.296,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"阿里巴巴分拆「平頭哥」上市　獲聯交所同意　傳集資最少20億美元
+
+阿里巴巴(9988)公布，聯交所已確認該公司可以分拆旗下全資半導體子公司「平頭哥」在主板上市。平頭哥為中國一家領先的全棧數據中心晶片供應商，該等晶片可實現系統級算力解決方案。建議分拆完成後，預期平頭哥將繼續為阿里巴巴的子公司。阿里巴巴表示，平頭哥於今年9月11日以保密形式向聯交所遞交上市申請表格。該公司認為，建議分拆在商業上對公司及...",https://t.me/StockIntelligenceNews/5713809
+Telegram,9988.HK,Alibaba,2026-11-10T13:10:32+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"阿里巴巴分拆平頭哥香港上市獲聯交所同意
+
+阿里巴巴(09988)公布，聯交所已確認該公司可以分拆旗下半導體子公司平頭哥在主板上市。平頭哥為中國一家領先的全棧數據中心晶片供應商，該等晶片可實現系統級算力解決方案。建議分拆完成後，預期平頭哥將繼續為阿里巴巴的子公司。阿里巴巴表示，平頭哥於今年9月11日以保密形式向聯交所遞交上市申請表格。該公司認為，建議分拆在商業上對公司及平頭哥有利，並符合股東的整體利...",https://t.me/StockIntelligenceNews/5713734
+Telegram,9988.HK,Alibaba,2026-11-10T13:00:42+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"【新股IPO】阿里四大原因分拆芯片業務「平頭哥」在港上市　據報集資20億至30億美元
+
+阿里巴巴（09988）宣布，已於9月11日以保密形式，向聯交所提交平頭車的上市申請表格，以申請批准分拆全棧數據中心芯片供應商平頭哥的H股獨立上市。IFR早前引述消息報道，平頭哥擬集資約20億至30億美元（約156億至234億港元）。阿里早前於雲棲大會上表示，預計「平頭哥」AI芯片出貨量將大幅提升，並發布最新芯片...",https://t.me/StockIntelligenceNews/5713675
+Telegram,9988.HK,Alibaba,2026-11-10T12:50:17+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,阿里巴巴(BABA.N)美股盤前轉漲，上漲近1%。,https://t.me/StockIntelligenceNews/5713641
+Telegram,9988.HK,Alibaba,2026-11-10T12:40:06+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,阿里巴巴：分拆使投資者能夠更精準地評估。,https://t.me/StockIntelligenceNews/5713592
+Telegram,9988.HK,Alibaba,2026-11-10T12:38:54+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"#焦點
+阿里巴巴(09988.HK)：本公司欣然宣佈，香港聯交所已確認本公司可進行建議分拆，因此，於2026年9月11日，平頭哥以保密形式向香港聯交所遞交上市申請表格（A1表格），以申請批准平頭哥的H股在香港聯交所主板上市及買賣。",https://t.me/StockIntelligenceNews/5713588
+Telegram,9988.HK,Alibaba,2026-11-10T09:31:58+00:00,0.7184,BULLISH,Not mentioned,BUY,Not mentioned,Not mentioned,Not mentioned,淨賣出,南向資金今日淨賣出27.39億元。港股通（滬）方面，騰訊控股、長飛光纖光纜分別獲淨賣出4.76億港元、2.39億港元；阿里巴巴-W淨買入額居首，金額為14.34億港元；港股通（深）方面，盈富基金、阿里巴巴-W分別獲淨賣出6.9億港元、5.66億港元；中芯國際淨買入額居首，金額為1.83億港元。,https://t.me/StockIntelligenceNews/5712776
+Telegram,1810.HK,Xiaomi,2026-11-10T07:47:10+00:00,0.9001,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"《大行》花旗：中國車企11月首周電動車訂單按月升4% 料11月零售按年跌5.9%
+
+花旗發表研究報告指，根據經銷商數據，中國汽車製造業整體電動車訂單於11月首周(2日至8日)按月增長4%，較去年同期的按月下跌38%有所改善，認為行業訂單趨勢略為正面。該行指出，去年11月新能源車保險零售按月升2.4%，預期今年11月新能源車零售按月增長將較去年同期表現強勁，部分因9月及10月基數較低。若套用乘聯會1...",https://t.me/StockIntelligenceNews/5712261
+Telegram,3690.HK,Meituan,2026-11-10T07:46:47+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"美團開源LongCat-2.5 支援商用推理部署與二次訓練
+
+美團-W(03690.HK)公布，正式開源LongCat-2.5，採用MIT協議，支援商用推理部署與二次訓練，無需額外授權。LongCat-2.5是面向長程智能體任務的原生多模態模型，在複雜代碼庫開發、完整項目構建、Visual Coding與專業辦公場景中，端到端交付能力均有明顯提升。模型總參數1.6萬億，每個token激活約480億...",https://t.me/StockIntelligenceNews/5712258
+Telegram,9988.HK,Alibaba,2026-11-10T07:20:55+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"阿里巴巴-W (09988) 有2宗大手成交 涉資5,061.81萬元
+
+股份名稱： 阿里巴巴－W (09988)
+大手宗數： 2宗
+價格： 101.3 - 101.6元
+數量： 49.88萬
+涉資： 5,061.81萬元
+時間 價格 數量 涉資
+--------------------------------------------------
+14：40：43 101.300 200,000 ...",https://t.me/StockIntelligenceNews/5712156
+Telegram,9988.HK,Alibaba,2026-11-10T06:37:12+00:00,0.993,BULLISH,Not mentioned,BUY,Not mentioned,Not mentioned,650,Not mentioned,"高盛公佈中國互聯網股五大重點關注標的：騰訊、阿里巴巴、拼多多、美團和京東
+
+高盛在中國互聯網企業第三季度財報發佈前表示，相較於電商、廣吿及本地生活服務，更看好遊戲和娛樂業務；同時，雲計算、AI業務擴張及互聯網平台盈利能力改善也將帶來投資機會。
+騰訊方面，高盛預計第三季度遊戲和廣吿業務收入分別同比增長8%和19%，雲業務增長提速及企業級AI智能體WorkBuddy的推廣將提供額外增長動力，維持12個...",https://t.me/StockIntelligenceNews/5711961
+Telegram,1810.HK,Xiaomi,2026-11-10T05:16:29+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"小米汽車｜10月領跑20萬以上價位品牌銷量榜　小米澎程系列交付2.7萬輛　小米升2%
+
+小米（01810）汽車公布，根據易車10月全國轎車零售銷售排行榜，小米汽車以50123輛的成績，領跑20萬以上價位品牌銷量榜，拋棄寶馬和鴻蒙智行，並同時包攬同價位車型銷量榜前三名。至於首10個月累計銷量，小米汽車同樣第一。小米股價升2%，高見30.78元。按數據顯示，前三款車型分別為小米澎程N70、小米SU7、...",https://t.me/StockIntelligenceNews/5711721
+Telegram,3690.HK,Meituan,2026-11-10T04:36:59+00:00,0.891,BULLISH,80,HOLD,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"陳炳強：美股AI陰霾未致崩盤 資金短期難撤
+
+恒指近期重上24000多點，略為企穩，惟內地電商增長放緩、人工智能概念股波動，市場關注港股後市。資深股評人陳炳強強調，港股要真正擺脫低位徘徊區，須中國經濟或政策面大幅改善，惟暫未見跡象，外圍資金流入亦未成事。他預料，美股雖受人工智能發展隱憂及民主黨國會選舉大勝影響，惟市場反應未見一面倒崩盤，更見科技股及人工智能相關股份逢低吸納，顯示市場尚算穩定。他直言...",https://t.me/StockIntelligenceNews/5711630
+Telegram,9988.HK,Alibaba,2026-11-10T04:08:13+00:00,-0.4588,BEARISH,24518.87,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"港股午評：恆指高開後震盪回落 PCB概念領漲
+
+恆指早間開漲0.7%，科指開盤漲0.78%，隨後兩大股指震盪回落。截至午間收盤，恆指收漲0.29%，報24518.87點，科指收漲0.7%，報4069.03點，恆指大市成交額達929.84億港元。盤面上，PCB概念、航空股、芯片股等板塊漲幅居前，石油與天然氣、機器人概念股、航運及港口等板塊表現疲軟。個股方面，智譜(02513.HK)收漲11.89%，...",https://t.me/StockIntelligenceNews/5711565
+Telegram,1810.HK,Xiaomi,2026-11-10T03:58:50+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"小米澎程系列10月交付27132輛
+
+小米(01810)旗下小米汽車發布，據易車2026年10月全國轎車零售銷量排行榜，小米SU7於10月位列20萬元人民幣以上轎車銷量第一，今年1至10月累計銷量亦排名第一。小米澎程系列亦有亮眼表現。據懂車帝月度銷量榜單顯示，澎程系列10月共交付27132輛，其中N70交付14545輛，N90交付12587輛。N70於增程車及中大型SUV類別均排名銷量第一；N90...",https://t.me/StockIntelligenceNews/5711557
+Telegram,9988.HK,Alibaba,2026-11-10T02:46:32+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"阿里巴巴-W (09988) 有3宗大手成交 涉資8,318.36萬元
+
+股份名稱： 阿里巴巴－W (09988)
+大手宗數： 3宗
+價格： 101.0元
+數量： 82.36萬
+涉資： 8,318.36萬元
+時間 價格 數量 涉資
+--------------------------------------------------
+10：16：48 101.000 255,500 25,805,5...",https://t.me/StockIntelligenceNews/5711333
+Telegram,9988.HK,Alibaba,2026-11-10T02:45:56+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"阿里巴巴-W (09988) 有2宗大手成交 涉資5,364.53萬元
+
+股份名稱： 阿里巴巴－W (09988)
+大手宗數： 2宗
+價格： 101.5 - 101.6元
+數量： 52.83萬
+涉資： 5,364.53萬元
+時間 價格 數量 涉資
+--------------------------------------------------
+10：06：21 101.600 228,300 ...",https://t.me/StockIntelligenceNews/5711325
+Telegram,9988.HK,Alibaba,2026-11-10T02:02:27+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"阿里巴巴-W (09988) 有1宗大手成交 涉資3,060萬元
+
+股份名稱： 阿里巴巴－W (09988)
+大手宗數： 1宗
+價格： 102.0元
+數量： 30萬
+涉資： 3,060萬元
+時間 價格 數量 涉資
+--------------------------------------------------
+09：37：23 102.000 300,000 30,600,000
+大手成交：成...",https://t.me/StockIntelligenceNews/5711143
+Telegram,3690.HK,Meituan,2026-11-10T01:18:35+00:00,0.9371,BULLISH,Not mentioned,BUY,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"麥格理：美團跌6%領跌藍籌 留意購26851、沽15094
+
+美團跌6%領跌藍籌 留意購26851、沽15094
+港股周一(9日)高開低走，大市高開143點後早段升幅曾擴大至257點，其後回順，半日升幅收窄至49點，午後逐漸失去上升動力，全日掉頭轉跌32點。美團(03690)股價周一跌6.5%，此前有大行發表研究報告指，中國電商正進入結構性低增長階段，惟競爭仍未減退，報告更預測電商平台GMV於20...",https://t.me/StockIntelligenceNews/5710986
+Telegram,1810.HK,Xiaomi,2026-11-10T01:10:58+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"小米昨回購165.5萬股 涉資逾4,989萬元
+
+小米(01810.HK)公布，於昨日(9日)回購165.5萬股，每股作價介乎30.08至30.24元，涉資約4,989.28萬元。(jl)...全文
+
+#AASTOCKS",https://t.me/StockIntelligenceNews/5710953
+Telegram,9988.HK,Alibaba,2026-11-09T14:50:01+00:00,0.5267,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Apple智能於內地已新增平板及手提電腦應用
+
+中國網信部門文件顯示，蘋果公司旗下的生成式人工智能(AI)服務「Apple智能」，已正式新增平板電腦及手提電腦兩大應用場景，並完成相應的備案變更手續。Apple智能於今年7月已通過國家網信辦備案。有報道指出，該企計劃先透過測試版本推出首批AI功能，料於12月隨新版本操作系統(如iOS 27.3等)正式向內地用戶全面推送。在內地本地化落地與生態合作方面...",https://t.me/StockIntelligenceNews/5709746
+Telegram,9988.HK,Alibaba,2026-11-09T13:11:02+00:00,0.296,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Apple 智能 iPad 和 MacBook 版獲中國批准
+
+中國網信部門發布的文件顯示，蘋果公司(AAPL.US)的生成式人工智能(AI)Apple 智能(Apple Intelligence)新增 iPad 和 MacBook 並已完成備案。上海市互聯網信息辦公室在該市生成式人工智能服務已備案訊息變更公告中作出上述披露。Apple 智能在7月已獲得國家網信辦備案，為國內上線掃清主要障礙。根據...",https://t.me/StockIntelligenceNews/5709464
+Telegram,9988.HK,Alibaba,2026-11-09T12:58:45+00:00,0.296,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"Apple智能iPad和MacBook版獲中國批准
+
+中國網信部門發布的文件顯示，蘋果公司的生成式人工智能(AI)Apple智能(Apple Intelligence)新增iPad和MacBook，並已完成備案。上海市互聯網信息辦公室在該市生成式人工智能服務已備案訊息變更公告中作出上述披露。Apple智能在7月已獲得國家網信辦備案，為國內上線掃清主要障礙。根據媒體報道，Apple智能計劃在一個測試...",https://t.me/StockIntelligenceNews/5709411
+Telegram,9988.HK,Alibaba,2026-11-09T10:31:00+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"5則必讀新聞丨平頭哥傳香港上市籌逾156億
+
+1.IPO丨平頭哥傳明年香港上市 籌逾156億路透旗下IFR引述知情人士稱，阿里巴巴(09988)旗下半導體子公司「平頭哥」計劃明年香港上市，可能集資至少20億至30億美元(約156億至234億港元)。2.內地多家銀行據報大幅上調美元存款利率路透引述多位消息人士透露，中國多家銀行大幅上調美元存款利率，部分美元利率甚至已超過美國基準水平，緩解人民幣升值壓...",https://t.me/StockIntelligenceNews/5708903
+Telegram,1810.HK,Xiaomi,2026-11-09T08:57:29+00:00,0.5994,BULLISH,8,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"小米｜三區洗衣乾衣機Pro　14.5kg 三個滾筒獨立洗烘
+
+小米宣布在港推出第五款洗衣乾衣機「米家三區洗衣乾衣機Pro 14.5kg」，總共有三個滾筒，更可獨立洗烘。小米表示，該款旗艦級洗衣乾衣機的最高脫水轉速可達每分鐘1400轉。三個滾筒的大小各有不同：底部滾筒直徑為525毫米，能容納12.5KG洗衣量及8KG乾衣量；頂部的兩個細筒，則各可容納1KG洗衣量及0.5KG乾衣量。
+洗衣速度快至12...",https://t.me/StockIntelligenceNews/5708485
+Telegram,3690.HK,Meituan,2026-11-09T08:22:31+00:00,-0.7184,BEARISH,24448.95,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"港股收評：恆指尾盤轉跌轉跌 消費電子、PCB概念股集體走弱
+
+恆指高開0.59%後未能守住漲幅，全天維持震盪下行走勢，尾盤轉跌轉跌。截至收盤，恆指收跌0.13%，報24448.95點，科指收跌0.92%，報4040.73點，恆指大市成交額達1737.07億港元（上一交易日為2474.28億港元）。盤面上，大市多數板塊飄綠，煤炭、電池、生物技術板塊逆勢走強，消費電子、醫療器械、PCB概念等板塊集體走...",https://t.me/StockIntelligenceNews/5708322
+Telegram,3690.HK,Meituan,2026-11-09T08:21:42+00:00,0.0,NEUTRAL,24625,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"【港股收市】恒指倒跌32點　美團股價跌逾6%　中芯國際逆市升1%、華虹宏力升逾2%
+
+【恒生指數/恆生指數/恒指/恆指/HSI/Hang Seng Index/港股/夜期/ADR】港股高開低走倒跌收場。恒生指數高開143點，開報24625點，早段曾高見24738點，其後升幅收窄，尾市倒跌。恒生指數最終跌32點，收報24448點，成交1737.1億元，科指跌0.9%，報4040點。美團（03690）...",https://t.me/StockIntelligenceNews/5708317
+Telegram,3690.HK,Meituan,2026-11-09T08:09:12+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"#焦點
+港股收盤：恆生指數跌0.13%，恆生科技指數跌0.92%
+
+地平線機器人-W跌2.78%，寧德時代跌2.79%，比亞迪電子跌3.36%，龍湖集團跌3.82%，東方海外國際跌4.07%，美團-W跌6.97%，零跑汽車跌7.21%。",https://t.me/StockIntelligenceNews/5708273
+Telegram,9988.HK,Alibaba,2026-11-09T07:55:24+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"《新股情報》傳阿里晶片子企平頭哥擬明年來港上市 籌至少20億美元
+
+IFR引述消息指，阿里巴巴(09988)旗下晶片公司平頭哥計劃明年來港上市，可能集資至少20億至30億美元(約156億至234億港元)。據官方網頁介紹，平頭哥於2018年成立，為阿里巴巴集團全資半導體芯片業務主體，具備成熟的芯片研發體系及芯片端到端全鏈路研發能力。在數據中心領域，從並行計算到通用計算、從高速互聯到數據存儲，平頭哥已...",https://t.me/StockIntelligenceNews/5708200
+Telegram,9988.HK,Alibaba,2026-11-09T07:24:14+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"【新股IPO】阿里旗下芯片業務「平頭哥」傳明年來港上市　集資額為20億至30億美元
+
+據IFR引述消息報道，阿里巴巴（09988）旗下芯片業務「平頭哥」據於明年於港上市，集資約20億美元至30億美元（約156億港元至234億港元）。阿里早前於雲棲大會上表示，預計「平頭哥」AI芯片出貨量將大幅提升，並發布最新芯片「真武V900」，稱其算力較上代「真武M890」提升3倍，單一集群可擴展至50萬卡規模。...",https://t.me/StockIntelligenceNews/5708042
+Telegram,9988.HK,Alibaba,2026-11-09T06:53:10+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"《新股》傳阿里晶片設計子公司「平頭哥」擬明年赴港上市 籌集至少20億美元
+
+《IFR》引述消息人士報道，阿里巴巴-W(09988.HK)晶片設計子公司平頭哥計劃明年在香港上市，可能至少籌集20億至30億美元。平頭哥在9月發布新一代訓推一體AI芯片真武V900，性能提升至真武M890的三倍，這是目前算力性能最強的中國自研AI芯片，可滿足萬億級參數大模型的訓練和推理需求。
+
+#AASTOCKS | 來...",https://t.me/StockIntelligenceNews/5707921
+Telegram,0005.HK,HSBC,2026-11-09T05:04:11+00:00,-0.3818,BEARISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"黃仁勳坦承出軌將遭調查 事態發展一次看
+
+輝達執行長黃仁勳遭披露恐成外國情報機構鎖定目標並與疑似中國間諜的女子有染。黃仁勳今天坦承對妻子不忠並公開致歉，除輝達董事會已展開調查，美國國會也要求黃仁勳簡報。包括華爾街日報、紐約時報等媒體先前披露，風波核心女方是曾任新加坡數據中心業者Megaspeed主管的中國籍女子黃樂（Alice Huang）。美方官員去年認定，黃樂在與輝達（Nvidia）合作於亞洲...",https://t.me/StockIntelligenceNews/5707622
+Telegram,3690.HK,Meituan,2026-11-09T04:36:26+00:00,0.25,BULLISH,76.05,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"異動股丨美團挫逾半成 大摩降評級及目標價
+
+美團(03690)遭摩根士丹利下調評級及目標價，股價下挫半成，暫時最多挫5.6%，低見75.9元。截至上午11時38分，報76.05元，下挫5.4%，成交逾27.2億元。摩根士丹利表示，中國電商行業正在失去增長動能，但競爭對手並未減少，持續的競爭可能會消耗市場期待的「成熟紅利」，將美團(03690)評級下調至「與大市同步」，目標價下調18%，由110元下...",https://t.me/StockIntelligenceNews/5707552
+Telegram,3690.HK,Meituan,2026-11-09T04:21:36+00:00,-0.7783,BEARISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"《今早重點新聞》
+
+中國延長暫停實施24%對美加徵關稅稅率兩個月 保留10%加徵稅率
+黃仁勳認出軌 特朗普：他為人正直應續任Nvidia行政總裁
+內地10月CPI按年升0.7%創3個月低位 PPI升5.7%創近4年半最高
+美團(03690)遭大摩調低評級 股價急挫逾4%
+台股早段升2.55%...全文
+
+#匯港通訊",https://t.me/StockIntelligenceNews/5707494
+Telegram,3690.HK,Meituan,2026-11-09T04:11:38+00:00,-0.4588,BEARISH,24531.15,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"港股午評：科指盤中一度轉跌 煤炭與生物醫藥板塊領漲
+
+恆指早間開漲0.59%，科指開盤漲超1%，隨後兩大股指持續震盪走低，科指一度轉跌小幅下跌。截至午間收盤，恆指收漲0.2%，報24531.15點，科指收漲0.07%，報4081.03點，恆指大市成交額達974.12億港元。盤面上，煤炭、生物醫藥、商業航天等板塊漲幅居前，鋰電池、建築材料等板塊表現疲軟。個股方面，汽車股先漲後跌，零跑汽車(09863...",https://t.me/StockIntelligenceNews/5707472
+Telegram,3690.HK,Meituan,2026-11-09T03:20:45+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"美團-W (03690) 有1宗大手成交 涉資2,283.82萬元
+
+股份名稱： 美團－W (03690)
+大手宗數： 1宗
+價格： 77.00元
+數量： 29.66萬
+涉資： 2,283.82萬元
+時間 價格 數量 涉資
+--------------------------------------------------
+10：58：31 77.000 296,600 22,838,200
+大手...",https://t.me/StockIntelligenceNews/5707367
+Telegram,3690.HK,Meituan,2026-11-09T03:09:21+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,港股明星科網股漲幅收窄，美團(03690.HK)現跌超4%，貝殼(02423.HK)跌超2%，網易-S(09999.HK)漲幅收窄至1.4%，百度(09888.HK)漲幅收窄至1.28%。,https://t.me/StockIntelligenceNews/5707320
+Telegram,3690.HK,Meituan,2026-11-09T02:41:00+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"美團-W (03690) 有1宗大手成交 涉資2,340萬元
+
+股份名稱： 美團－W (03690)
+大手宗數： 1宗
+價格： 78.00元
+數量： 30萬
+涉資： 2,340萬元
+時間 價格 數量 涉資
+--------------------------------------------------
+10：17：52 78.000 300,000 23,400,000
+大手成交：成交金額大於...",https://t.me/StockIntelligenceNews/5707247
+Telegram,0700.HK,Tencent,2026-11-09T02:05:18+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"王健林14年後再任萬達商管董事長
+
+天眼查App顯示，近日，大連萬達商業管理集團股份有限公司發生工商變更，陳洪濤卸任董事長，由王健林接任。值得一提的是，王健林曾於2012年卸任該公司董事長。該公司成立於2002年9月，法定代表人為陳洪濤，註冊資本約271.6億人民幣，經營範圍包括商業綜合體管理服務、非居住房地產租賃、物業管理等，由大連萬達集團股份有限公司、王健林、Tencent Mobility ...",https://t.me/StockIntelligenceNews/5707120
+Telegram,9988.HK,Alibaba,2026-11-09T02:00:26+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"阿里巴巴-W (09988) 有1宗大手成交 涉資3,240萬元
+
+股份名稱： 阿里巴巴－W (09988)
+大手宗數： 1宗
+價格： 108.0元
+數量： 30萬
+涉資： 3,240萬元
+時間 價格 數量 涉資
+--------------------------------------------------
+09：40：37 108.000 300,000 32,400,000
+大手成交：成...",https://t.me/StockIntelligenceNews/5707090
+Telegram,9988.HK,Alibaba,2026-11-09T01:21:22+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"#焦點
+港股開盤：恆生指數漲0.59%，恆生科技指數漲1.02%
+
+蔚來-SW漲5.62%，小鵬集團-W漲3.03%，理想汽車-W漲2.87%，藥明生物漲2.86%，華虹宏力漲2.64%，MINIMAX-W漲2.57%，阿里巴巴-W漲2.38%。",https://t.me/StockIntelligenceNews/5706876
+Telegram,0005.HK,HSBC,2026-11-08T05:21:32+00:00,0.8689,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"【HSBC】直擊銅鑼灣旗艦分行開幕！姜濤現身再引爆「姜濤灣」 5層逾3.2萬呎新地標揭幕
+
+HSBC滙豐（00005）位於渣甸街5至19號京華中心、樓高五層的銅鑼灣旗艦分行及卓越理財中心周日（8日）開幕。旗艦分行面積逾32,000平方呎，是集團首間結合全方位零售銀行及財富管理服務，並提供教育、身心健康管理、文化及生活品味等精選服務的分行。滙豐表示，該旗艦分行每日開放，旨在打造融合理財與生活的一站式...",https://t.me/StockIntelligenceNews/5705709
+Telegram,0700.HK,Tencent,2026-11-07T08:50:07+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"騰訊混元Hy4列AA榜單國模第二 Arena榜單全球開源模型第一
+
+全球權威大模型評測平台 Artificial Analysis 發佈最新智能指數榜單，騰訊 Hy4 在 724 款模型中躋身前列，在中國模型中位列第二，僅次於 Kimi K3.1 Pro，領先於 Qwen 3.8 Max、DeepSeek V4.1 Flash 等模型。Artificial Analysis 被業內視為當前衡量大模...",https://t.me/StockIntelligenceNews/5704991
+Telegram,0700.HK,Tencent,2026-11-07T08:43:38+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"騰訊混元Hy4列AA榜單國模第二 Arena榜單全球開源模型第一
+
+全球權威大模型評測平台 Artificial Analysis 發佈最新智能指數榜單，騰訊 Hy4 在 724 款模型中躋身前列，在中國模型中位列第二，僅次於 Kimi K3.1 Pro，領先於 Qwen 3.8 Max、DeepSeek V4.1 Flash 等模型。Artificial Analysis 被業內視為當前衡量大模...",https://t.me/StockIntelligenceNews/5704985
+Telegram,9988.HK,Alibaba,2026-11-06T22:57:15+00:00,0.7845,BULLISH,24647,SELL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"【港股夜期+ADR+北水】夜期收市升148點　阿里美股高港2%
+
+【恒生指數/恆生指數/恒指/恆指/HSI/Hang Seng Index/港股/夜期/ADR】夜期收市升148點，收報24647點，中概股指數升1.7%，收報5843點，阿里巴巴美股高港股2%。北水錄24.1億元淨流入，資金主力買重磅股騰訊（00700）及美團（03690），全日分別錄7.6億元及6.6億元淨流入，阿里巴巴（0998...",https://t.me/StockIntelligenceNews/5704396
+Telegram,9988.HK,Alibaba,2026-11-06T21:06:00+00:00,0.4588,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"#焦點
+美股收盤：三大股指漲跌不一 SpaceX漲超8%
+
+美股週五收盤，道指初步收跌0.46%，標普500指數漲0.32%，納指漲1.09%。芯片股多數反彈，SK海力士(SKHY.O)漲2.78%，英偉達(NVDA.O)漲2.78%，AMD(AMD.O)漲11.04%，英特爾(INTC.O)漲7.71%，美光科技(MU.O)漲5.12%，邁威爾科技(MRVL.O)漲5.73%，Arm(ARM.O...",https://t.me/StockIntelligenceNews/5704322
+Telegram,0005.HK,HSBC,2026-11-06T16:25:03+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,匯豐控股(HSBC.N)：持續存在的安全風險與低庫存使油價風險在極短期內偏向上行，直到2027年初新增繞行產能開始緩解原油緊張局面。,https://t.me/StockIntelligenceNews/5703961
+Telegram,0005.HK,HSBC,2026-11-06T16:24:03+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,匯豐控股(HSBC.N)：油輪或基礎設施遭襲導致每日200萬至300萬桶石油供應再度中斷，將使市場重回短缺，並對油價構成上行壓力。,https://t.me/StockIntelligenceNews/5703960
+Telegram,0005.HK,HSBC,2026-11-06T16:22:58+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,匯豐控股(HSBC.N)：儘管中東出口總體穩定、基本面幾乎沒有變化，油價仍對地緣政治新聞高度敏感。,https://t.me/StockIntelligenceNews/5703957
+Telegram,0700.HK,Tencent,2026-11-06T12:49:08+00:00,0.5267,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"騰訊與無綫布局新賽道　將經典劇改編為橫屏短劇
+
+騰訊(00700)與無綫集團開展視頻戰略合作布局「橫屏短劇」新賽道，將TVB旗下多部經典劇集作品改編為橫屏短劇。是次合作採用「一套內容、雙地運營」模式，針對內地與香港不同的媒體生態與觀看習慣，推出差異化的內容形態：面向內地市場於騰訊視頻上線每集15分鐘的橫屏短劇；於香港TVB翡翠台則以香港觀眾習慣的每集1小時在黃金時段播出。
+
+#東網產經 | 來源",https://t.me/StockIntelligenceNews/5703299
+Telegram,1810.HK,Xiaomi,2026-11-06T10:33:57+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"小米汽車成立國際業務部 于立國兼任總經理
+
+小米(01810)旗下小米汽車公布架構調整，成立國際業務部，任命汽車部副總裁于立國兼任國際業務部總經理，向集團董事長兼CEO、汽車部總裁雷軍和集團總裁盧偉冰雙線滙報。另外，小米汽車國際業務部下設汽車國際市場部，相關工作向國際業務部總經理于立國和集團副總裁、首席營銷官(CMO)許斐雙線滙報；下設GTM部、銷售部、 網絡發展部、交付物流部、用戶服務部、綜合管...",https://t.me/StockIntelligenceNews/5702813
+Telegram,9988.HK,Alibaba,2026-11-06T09:06:52+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,阿里巴巴(09988.HK)：將於2026年11月19日公佈2026年9月底季度業績。,https://t.me/StockIntelligenceNews/5702354
+Telegram,9988.HK,Alibaba,2026-11-06T08:39:09+00:00,0.0,NEUTRAL,24404,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"【港股收市】恒指跌315點　阿里巴巴跌近4%　XL二南方海力士挫19%　李寧逆市升半成
+
+【恒生指數/恆生指數/恒指/恆指/HSI/Hang Seng Index/港股/夜期/ADR】港股跌逾300點。恒生指數低開392點，開報24404點，其後跌幅一度收窄至約百點，恒生指數跌315點，收報24481點，成交2474.3億元，科指跌1.8%，報4078點。阿里巴巴（09988）跌近4%，紫金（02...",https://t.me/StockIntelligenceNews/5702194
+Telegram,9988.HK,Alibaba,2026-11-06T07:52:21+00:00,0.4588,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"阿里巴巴｜菜鳥推動機械人應用　擴展至更複雜作業環境
+
+母公司為阿里巴巴集團的內地現代物流企業菜鳥近日宣布向業界夥伴開放其覆蓋全球的倉儲網絡，打造全球規模最大的AI與具身智能物流實景訓練集群之餘，還推出「科技出海三日達」服務。「科技出海三日達」服務升級專為AI算力及具身智能機械人企業而設的出海供應鏈基建，提供涵蓋樣機測試、規模化交付以至海外在地營運的全流程供應鏈解決方案，協助中國硬科技企業更高效拓展...",https://t.me/StockIntelligenceNews/5701958
+Telegram,0700.HK,Tencent,2026-11-06T04:36:45+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,嗶哩嗶哩：騰訊 2 億美元票據認購以及公司同步 2 億美元回購騰訊所持部分 Z 類普通股、ADS 的交易，已於 11 月 5 日港股收市後完成交割。,https://t.me/StockIntelligenceNews/5701361
+Telegram,0005.HK,HSBC,2026-11-06T03:30:58+00:00,0.0,NEUTRAL,Not mentioned,BUY,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"歐洲股市淘金攻略！摩根看好四大潛力產業 未來五年有戲
+
+歐洲股市除具備估值與股息收益優勢外，金融保險、能源、公用事業、電信等四大產業具備中長期投資潛力；尤其隨著AI發展從基礎建設邁向商業應用，歐洲企業可望藉由導入AI提升營運效率、改善獲利，成為未來值得關注的投資機會。一、金融與保險業是歐洲AI應用的重要領域。摩根全球股票團隊投資組合經理暨執行董事Mayur Patel表示，以法國保險業者安盛（AX...",https://t.me/StockIntelligenceNews/5701138
+Telegram,3690.HK,Meituan,2026-11-06T01:11:31+00:00,0.91,BULLISH,10.55,Not mentioned,20,50,Not mentioned,Not mentioned,"麥格理：美團重上80元成交倍增 留意購26851、沽15094
+
+美團重上80元成交倍增 留意購26851、沽15094
+美國中期選舉塵埃落定後，美股周三(4日)晚急升逾1500點，港股周四(5日)裂口高開，午後更升逾900點，全日升877點，一口氣升穿50及100天綫。傳統科網股成升市火車頭，美團(03690)股價周四裂上揚，並在成交倍增下重上80元之上，且突破100天綫，全日升6.7%，MAC...",https://t.me/StockIntelligenceNews/5700661
+Telegram,9988.HK,Alibaba,2026-11-06T00:22:21+00:00,0.5267,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,"在美上市中概股逆勢走強 中國科技政策穩定預期形成支撐
+
+北京時間11月6日清晨，美股三大股指全面下挫，在美上市中概股多數逆勢上漲。納斯達克中國金龍指數收漲0.43%。個股層面分化走強，課標科技大漲30.9%，虎虎科技國際上漲27.24%；消費、互聯網龍頭同步走高，名創優品漲5.95%，網易漲4.37%，嗶哩嗶哩、阿里巴巴、拼多多漲幅均超2.6%。市場分析認為，本輪中概股的韌性行情，核心來自中國科技...",https://t.me/StockIntelligenceNews/5700517
+Telegram,0005.HK,HSBC,2026-11-05T23:15:58+00:00,0.9246,BULLISH,23,HOLD,Not mentioned,2,Not mentioned,Not mentioned,"匯豐有望重投基金懷抱　不妨留意｜許繹彬
+
+令港股投資者沮喪的10月終於畫上句號。恒指全月累跌1,318點（約5.36%），再次應驗「十月魔咒」；不過，相比近半年深受投資者青睞的「恒生科技指數」，恆指跌幅還未算慘烈；10月份科技股連番受阻影響，頓成跌市重災區，科指重創逾11%，情況慘不忍睹；一直對港股寵愛有加的「北水」，更在10月呈現連續14天淨流出，累計流出近418億元，再創最長淨流出紀錄。踏入2...",https://t.me/StockIntelligenceNews/5700331
+LIHKG,0700.HK,Tencent,2026-11-12T04:01:15+00:00,0.3612,BULLISH,Not mentioned,BUY,Not mentioned,Not mentioned,Not mentioned,Not mentioned,聽講尋日雙11 馬化騰訊暗示有大動作喎,https://lihkg.com/thread/4179443/page/1
+LIHKG,0700.HK,Tencent,2026-11-09T10:17:24+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,震撼樂壇！TVB夥騰訊播勁歌金榜　辦《大灣區勁歌金曲頒獎典禮》,https://lihkg.com/thread/4178376/page/1
+LIHKG,0700.HK,Tencent,2026-11-06T07:52:25+00:00,0.296,BULLISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,無綫集團(00511.HK)與騰訊視頻達成合作 經典劇集改編橫屏短劇,https://lihkg.com/thread/4177242/page/1
+LIHKG,0005.HK,HSBC,2026-11-07T11:58:39+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,HSBC 信用卡熱線人員無人聽,https://lihkg.com/thread/4177672/page/1
+LIHKG,0005.HK,HSBC,2026-11-12T05:43:04+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,彭博消息：滙豐加強新加坡業務  降低依賴香港  分散亞洲風險  最終目標是與香港並列,https://lihkg.com/thread/4179481/page/1
+LIHKG,1810.HK,Xiaomi,2026-11-10T02:10:54+00:00,0.0,NEUTRAL,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Switch 2有難？傳大作《薩爾達傳說：時之笛》已可在小米旗艦機穩定30fps運行！,https://lihkg.com/thread/4178599/page/1
+LIHKG,1810.HK,Xiaomi,2026-11-09T06:11:06+00:00,-0.4588,BEARISH,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,Not mentioned,始終都係小米雷軍好，唔會好似老黃咁叫雞出軌,https://lihkg.com/thread/4178277/page/1
